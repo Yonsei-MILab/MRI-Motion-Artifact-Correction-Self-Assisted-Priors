@@ -4,7 +4,7 @@ This project is developed to correct the motion artifacts in brain MRI.
 
 We propose an efficient retrospective method called self-assisted priors with cascaded refinement network for Reduction of Rigid Motion Artifacts in Brain MRI. 
 
-!['Some Results'](images/results.png)
+!['Results'](fig/result2.png)
 
 
 # Python Code
