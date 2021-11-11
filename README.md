@@ -19,6 +19,6 @@ The python code includes the main.py (train and test) and model.py network.
 
 This work has been submitted to one of the peer-reviewed scientific journals.
 
-Also, you can find the e-print copy on arXiv at:
+Also, you can find the preprint copy on arXiv at:
 
 http://
