@@ -21,4 +21,4 @@ This work has been submitted to one of the peer-reviewed scientific journals.
 
 Also, you can find the preprint copy on arXiv at:
 
-http://
+https://arxiv.org/abs/2111.06401
