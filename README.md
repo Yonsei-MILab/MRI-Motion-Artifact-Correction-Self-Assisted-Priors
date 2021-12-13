@@ -26,6 +26,7 @@ https://arxiv.org/abs/2111.06401
 # Citing 
 If you find "Self-Assisted Priors with Stacked Networks for Rigid Motion Correction" is useful in your research, please consider citing:
 
+```
 @article{Al-masni,
   author    = {Mohammed A. Al-masni and
                Seul Lee and
@@ -38,3 +39,4 @@ If you find "Self-Assisted Priors with Stacked Networks for Rigid Motion Correct
   year      = {2021},
   journal = {arXiv:2111.06401},
 }
+```
