@@ -22,3 +22,19 @@ This work has been submitted to one of the peer-reviewed scientific journals.
 Also, you can find the preprint copy on arXiv at:
 
 https://arxiv.org/abs/2111.06401
+
+# Citing 
+If you find "Self-Assisted Priors with Stacked Networks for Rigid Motion Correction" is useful in your research, please consider citing:
+
+@article{Al-masni,
+  author    = {Mohammed A. Al-masni and
+               Seul Lee and
+               Jaeuk Yi and
+               Sewook Kim and
+               Sung-Min Gho and
+               Young Hun Choi and
+               Dong-Hyun Kim},
+  title     = {Stacked U-Nets with Self-Assisted Priors Towards Robust Correction of Rigid Motion Artifact in Brain MRI},
+  year      = {2021},
+  journal = {arXiv:2111.06401},
+}
