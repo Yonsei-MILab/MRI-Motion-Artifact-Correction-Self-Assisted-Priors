@@ -40,5 +40,5 @@ abstract = {Magnetic Resonance Imaging (MRI) is sensitive to motion caused by pa
 }
 ```
 
-# For More project details:
+# Details for Other Projects:
 please visit: http://kimchi.yonsei.ac.kr/default/06/01.php
