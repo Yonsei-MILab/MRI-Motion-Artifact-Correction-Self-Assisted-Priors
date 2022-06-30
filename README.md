@@ -18,6 +18,7 @@ The python code includes the main.py (train and test) and model.py network.
 # Our Published Paper
 
 You can find the preprint copy on arXiv at: https://arxiv.org/abs/2111.06401
+
 The final version of this work is published in Neuroimage journal: https://www.sciencedirect.com/science/article/pii/S1053811922005286?via%3Dihub
 
 # Citing 
